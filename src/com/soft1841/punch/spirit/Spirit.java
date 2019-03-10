@@ -1,6 +1,7 @@
 package com.soft1841.punch.spirit;
 
-interface Move {
+interface
+Move {
     public String move();
 }
 
