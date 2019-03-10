@@ -1,7 +1,9 @@
 package com.soft1841.punch.goShopping;
 /**
- *
- * */
+ * @author 王龙傲
+ * 2019.3.10
+ * 商场抽象类
+ */
 public abstract class Market {
     //商场名
     public String name;

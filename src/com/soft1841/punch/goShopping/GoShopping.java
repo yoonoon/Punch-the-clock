@@ -1,4 +1,9 @@
 package com.soft1841.punch.goShopping;
+/**
+ * @author 王龙傲
+ * 2019.3.10
+ * 抽象类赋值
+ * */
 
 public class GoShopping {
     public static void main(String[] args) {
