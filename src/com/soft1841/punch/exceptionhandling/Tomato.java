@@ -1,4 +1,4 @@
-package com.soft1841.punch.exceptionHandling;
+package com.soft1841.punch.exceptionhandling;
 
 import java.util.Scanner;
 
