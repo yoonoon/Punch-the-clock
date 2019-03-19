@@ -1,4 +1,4 @@
-package com.soft1841.punch.grandlottery;
+package com.soft1841.grandlottery;
 
 import java.util.Random;
 

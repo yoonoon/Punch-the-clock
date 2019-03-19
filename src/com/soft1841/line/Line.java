@@ -1,4 +1,4 @@
-package com.soft1841.punch.line;
+package com.soft1841.line;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

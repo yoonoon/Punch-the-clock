@@ -1,4 +1,4 @@
-package com.soft1841.punch.stringtest;
+package com.soft1841.stringtest;
 
 public class StringTest {
     private static int time = 100000;

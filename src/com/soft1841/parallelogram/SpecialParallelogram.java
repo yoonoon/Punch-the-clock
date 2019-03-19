@@ -1,4 +1,4 @@
-package com.soft1841.punch.parallelogram;
+package com.soft1841.parallelogram;
 
 /**
  * @author 王龙傲

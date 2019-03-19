@@ -1,4 +1,4 @@
-package com.soft1841.punch.spirit;
+package com.soft1841.spirit;
 
 interface
 Move {

@@ -1,4 +1,4 @@
-package com.soft1841.punch.graphical;
+package com.soft1841.graphical;
 
 /**
  * @author 王龙傲

@@ -1,4 +1,4 @@
-package com.soft1841.punch.datediffrerntexample;
+package com.soft1841.datediffrerntexample;
 
 import java.text.DateFormat;
 import java.text.ParseException;

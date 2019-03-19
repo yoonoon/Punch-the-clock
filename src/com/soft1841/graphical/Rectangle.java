@@ -1,4 +1,4 @@
-package com.soft1841.punch.graphical;
+package com.soft1841.graphical;
 
 /**
  * 矩形面积抽象类

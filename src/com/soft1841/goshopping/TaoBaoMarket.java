@@ -1,4 +1,4 @@
-package com.soft1841.punch.goshopping;
+package com.soft1841.goshopping;
 
 /**
  * @author 王龙傲
