@@ -22,7 +22,7 @@ enum Week { // 定义一个枚举，用来记录一周的星期
                 return Week.TUESDAY;
             case "wed":
                 return Week.WEDNESDAY;
-            case "thru":
+            case "thur":
                 return Week.THURSDAY;
             case "fri":
                 return Week.FRIDAY;
