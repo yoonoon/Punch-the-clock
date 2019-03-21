@@ -1,6 +1,7 @@
 package com.soft1841.calendar;
 
 import java.util.Calendar;
+import java.util.Date;
 
 public class CalenderTest {
     public static void main(String[] args) {
@@ -13,5 +14,10 @@ public class CalenderTest {
         int second = c.get(Calendar.SECOND);
 
         System.out.println("当前时间“：" + year + "-"+ month + "-" + day + " " + hour + ":" + minute + ":" + second);
+
+        Date date = c.getTime();
+        Long time = c.getTimeInMillis();
+        System.out.println("当前时间：" + date);
+        System.out.println("当前毫秒数：" + time);
     }
 }
