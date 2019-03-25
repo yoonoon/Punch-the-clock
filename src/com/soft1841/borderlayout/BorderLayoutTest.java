@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class BorderLayoutTest extends JFrame {
     public BorderLayoutTest(){
-        setTitle("边界布局管理器");
+        setTitle("《射雕英雄传》");
         //定义一个容器
         Container c = getContentPane();
         //设置容器为边界布局管理器

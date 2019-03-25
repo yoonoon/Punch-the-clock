@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class BorderLayoutPosition extends JFrame {
     public BorderLayoutPosition(){
-        setTitle("这个窗体使用边界布局管理器");
+        setTitle("边界布局管理器");
         //定义一个容器
         Container c = getContentPane();
         //设置容器为边界布局管理器
