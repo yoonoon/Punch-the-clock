@@ -1,10 +1,8 @@
 package com.soft1841.datediffrerntexample;
 
-import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Scanner;
 
 public class DateDifferentExample {
     public static void main(String[] args) {

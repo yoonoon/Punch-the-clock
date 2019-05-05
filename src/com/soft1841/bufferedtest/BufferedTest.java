@@ -1,11 +1,6 @@
 package com.soft1841.bufferedtest;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
 public class BufferedTest {
     public static void main(String args[]) {
